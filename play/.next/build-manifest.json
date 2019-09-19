@@ -1,13 +1,9 @@
 {
   "devFiles": [
-    "static/development/dll/dll_430e25a76c820c804541.js",
-    "static/development/dll/dll_430e25a76c820c804541.js.map"
+    "static/development/dll/dll_397dc449097af0b4e992.js",
+    "static/development/dll/dll_397dc449097af0b4e992.js.map"
   ],
   "pages": {
-    "/": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
     "/_app": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
@@ -16,11 +12,11 @@
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
-    "/chp2": [
+    "/chp3": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
-    "/index": [
+    "/dforceex": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ]
